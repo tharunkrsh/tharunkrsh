@@ -1,7 +1,7 @@
 # Hey, I'm Tharun 👋
 
 MSci Data Science @ King's College London  
-BSc Physics (First Class) · Full-Stack & Fintech Developer
+BSc Physics (First Class) @ UoS
 
 Building full-stack web applications and data-driven systems, with a 
 focus on financial applications and intelligent helpful tools. Currently developing 
